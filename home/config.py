@@ -3,4 +3,4 @@ PROJECT_DIR    = r"C:\Users\BasilDan\Google Drive\DTU\02819 Data mining with Pyt
 COMMENTS_PATH  = r"C:\Users\BasilDan\Google Drive\DTU\02819 Data mining with Python\workspace\YouPy\data\comments.txt"
 WORDS_PATH     = r"C:\Users\BasilDan\Google Drive\DTU\02819 Data mining with Python\workspace\YouPy\data\words.txt"
 USERNAME       = 'dimitris.danampasis@gmail.com'
-PASSWORD       = 'xontros86'
+PASSWORD       = ''
